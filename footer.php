@@ -1,5 +1,5 @@
 <section class="footer row">
-  <p class="text-center">Made with <i class="fa fa-heart"></i> by Brahmnoor and Sameer.</p>
+  <p class="text-center">Made with <i class="fa fa-heart"></i> by Brahmnoor.</p>
   <div class="text-center">
     <script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
     <!-- Illumine Header -->

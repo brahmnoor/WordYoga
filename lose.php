@@ -1,16 +1,16 @@
 <?php
 session_start();
-include 'DB.php';
+//include 'DB.php';
 
 
      $name = $_SESSION["userName"];
      $yourscore = 0;
 
 
-
+/*
      $sql = "INSERT INTO Scores(name,score)VALUES('$name','$yourscore')";
      $conn->query($sql);
-
+*/
      $_SESSION['gameEnd'] = true;
 
 ?>
@@ -47,6 +47,7 @@ include 'DB.php';
         <strong>Here are the High Scores<br>
         <span class="col-xs-6">Name</span><span class="col-xs-6">Score</span></strong>
         <?php
+        /*
         $sql = "SELECT * FROM Scores ORDER BY score DESC";
               $result = $conn->query($sql);
               if($result->num_rows >0) {
@@ -55,6 +56,7 @@ include 'DB.php';
                   echo "<span class='col-xs-6'>".$row["name"]."</span><span class='col-xs-6'>".$row["score"]."</span>";
                }
               }
+        */
         ?>
       </div>
 
