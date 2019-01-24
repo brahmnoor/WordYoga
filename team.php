@@ -18,9 +18,6 @@ session_start();
       <p>
         <strong>Brahmnoor Singh: </strong>First of all - it is me (Brahmnoor), who is writing this section, so please forgive me if I go on and boast. But well...Brahmnoor Singh - the guy behind this game. Designer, Programmer, Inventor, Entrepreneur, Student (maybe..I should stop here, I am sure you get the gist).
       </p>
-      <p>
-        <strong>Sameer Arora: </strong>It's me - Brahmnoor again, Sameer always leaves the content part for me. His fault - because I am going to go mad in this section. Blah blah blah...blah blah blah....if you are still reading this, then you really are quite bored...blah blah blah.
-      </p>
       </div>
       <div class="row text-center"><button><a href="/">Click here to play</a></button></div>
 
