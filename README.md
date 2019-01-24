@@ -3,6 +3,8 @@ WordYoga is a PHP based word game, where you're supposed to guess a 4 letter wor
 
 **Try it out** - You can always [try out the game here](http://wordyoga.herokuapp.com).
 
+![enter image description here](https://raw.githubusercontent.com/brahmnoor/WordYoga/master/docs/screen.png)
+
 **Motive:** To guess the 4 letter word assigned to you by Mr. Robot. All the letters will be unique in the word.
 
 **How to guess?** Mr. Robot is generous, he gives you 10 chances to enter any 4 letter word. Then after you input the word, he gives you a hint.
