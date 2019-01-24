@@ -1,0 +1,98 @@
+/* Stylesheet for Word Yoga */
+
+body {
+  background: #DD1155;
+  font-family: 'Source Sans Pro', sans-serif;
+  color: #FFF;
+  font-size: 2rem;
+  padding: 2rem 0;
+  max-width: 600px;
+}
+
+.logo {
+  text-align: center;
+  border-bottom: 2px solid #FFF;
+}
+
+.logo img {
+  max-height: 10rem;
+  max-width: 100%;
+}
+
+.row {
+	padding: 1rem 0;
+}
+
+nav {
+  border-bottom: 2px solid #FFF;
+}
+
+nav ul {
+	list-style: none;
+	font-family: 'Open Sans Condensed', sans-serif;
+	height: auto;
+	text-transform: uppercase;
+	text-decoration: none;
+	color: #FFF;
+}
+
+nav li {
+	display: inline-block;
+	cursor: pointer;
+	padding: 0.5rem 1rem;
+}
+
+nav li a {
+  text-decoration: none !important;
+	color: #FFF !important;
+}
+
+nav li:hover {
+	background: #8C002F;
+}
+
+form {
+	color: #000;
+}
+
+
+button {
+  background: #FFEE88;
+  font-size: 2rem;
+  font-family: 'Open Sans Condensed', sans-serif;
+  text-transform: uppercase;
+  border: none;
+  text-decoration: none;
+  color: #000;
+}
+
+button:hover .play-button {
+  position: relative;
+  right: -0.5rem;
+}
+
+.hero, .rules {
+  border-bottom: 2px solid #FFF;
+}
+
+.letter {
+  width: 3rem;
+  margin-left: 0.4rem;
+}
+
+.word {
+  font-family: 'Open Sans Condensed', sans-serif;
+  text-transform: uppercase;
+}
+
+.ruler {
+  width: 100%;
+  border-bottom: 2px solid #FFF;
+  height: 2px;
+  display: block;
+}
+
+.footer p {
+  text-align: center;
+  font-size: 1.5rem;
+}
